@@ -1,3 +1,4 @@
+import time
 print("What's your name?")
 name= input()
 
@@ -45,8 +46,9 @@ print("What's your favorite animal?")
 animal = input()
 
 
+time.sleep(100)
+
 
     
           
-    
     
