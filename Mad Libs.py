@@ -1,3 +1,4 @@
+import time
 print("Write a noun")
 noun1 = input()
 
@@ -64,3 +65,4 @@ print("Your pizza should look very " + adjective2 + " and good enough to eat ")
 print(" take you pizza out of the oven and " + verb4 + " and enjoy!") 
 
 
+time.sleep(200)
